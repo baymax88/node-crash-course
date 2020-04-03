@@ -1,0 +1,26 @@
+{
+  "name": "node_crash_course",
+  "version": "1.0.0",
+  "description": "Node Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baymax88/node-crash-course.git"
+  },
+  "author": "Bay Max",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baymax88/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/baymax88/node-crash-course#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
